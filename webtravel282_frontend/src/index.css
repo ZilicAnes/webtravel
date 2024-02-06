@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+.home button.btn.btn-secondary {
+    background-color: red;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    border-color: red;
+}
+h3.homepage {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}

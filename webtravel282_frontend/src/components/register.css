@@ -3,8 +3,8 @@
                display: flex;
                justify-content: center;
                align-items: center;
-               height: 100vh;
-               background-color: #f7f7f7;
+               height: 110vh;
+               
              }
              
              .register-card {
@@ -17,5 +17,11 @@
                background: white;
              }
              
-            
+.wrapper  { 
+background-image: url('/public/travel.jpg'); 
+background-size: cover;} 
+.input-wrapper{
+              padding-bottom: 10px;
+             }
+                    
              
